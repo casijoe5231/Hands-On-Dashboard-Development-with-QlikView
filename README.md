@@ -5,7 +5,7 @@
 
 This is the code repository for [Hands-On Dashboard Development with QlikView](https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-dashboard-development-qlikview), published by Packt.
 
-**Practical guide to creating interactive and user-friendly business intelligence dashboards	**
+**Practical guide to creating interactive and user-friendly business intelligence dashboards**
 
 ## What is this book about?
 QlikView is one of the market leaders when it comes to building effective Business Intelligence solutions. This book will show how you can leverage its power to build your own dashboards to tell your own data story.
